@@ -1,1 +1,1 @@
-#= require forem.js.erb
+#= require select2/select2
